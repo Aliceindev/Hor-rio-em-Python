@@ -1,5 +1,5 @@
 # Time in Python
-Este programa executa o horário digitado pelo usuário e os minutos, mostrando na tela se é A.M ou P.M. Alem de ter duas opções de formato de horário sendo uma de 12 horas e a outra de 24 horas. 
+This program executes the time entered by the user and the minutes, showing on the screen whether it is A.M. or P.M. In addition to having two time format options, one being 12 hours and the other 24 hours.
 
 -> Coloquei duas opções de código sendo uma mais fácil para a visualização devido aos códigos estarem com cores 
 - Nome do arquivo mais completo: horario.py          // Feito com 'def' e possui o import time,sys,os para efeito de animação
